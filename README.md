@@ -11,6 +11,7 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 # Dynamic Programming
 [5. Longest Palindromic Substring](medium/5.%20Longest%20Palindromic%20Substring.md)  
 [413. Arithmetic Slices](medium/413.%20Arithmetic%20Slices.md)  
+[516. Longest Palindromic Subsequence](medium/516.%20Longest%20Palindromic%20Subsequence.md)  
 
 # Enumeration
 [681. Next Closest Time](medium/681.%20Next%20Closest%20Time.md)  
