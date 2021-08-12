@@ -12,6 +12,7 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 [5. Longest Palindromic Substring](medium/5.%20Longest%20Palindromic%20Substring.md)  
 [413. Arithmetic Slices](medium/413.%20Arithmetic%20Slices.md)  
 [516. Longest Palindromic Subsequence](medium/516.%20Longest%20Palindromic%20Subsequence.md)  
+[72. Edit Distance](hard/72.%20Edit%20Distance.md)
 
 # Enumeration
 [681. Next Closest Time](medium/681.%20Next%20Closest%20Time.md)  
