@@ -19,3 +19,6 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 
 # Greedy
 [1007. Minimum Domino Rotations For Equal Row](medium/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row.md)  
+
+# Math
+[233. Number of Digit One](hard/233.%20Number%20of%20Digit%20One.md)  

@@ -24,7 +24,7 @@
 
 
 ```
-time:
+time: O(n<sup>2</sup>)
 
 
 space: 
