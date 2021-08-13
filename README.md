@@ -16,3 +16,6 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 
 # Enumeration
 [681. Next Closest Time](medium/681.%20Next%20Closest%20Time.md)  
+
+# Greedy
+[1007. Minimum Domino Rotations For Equal Row](medium/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row.md)  
