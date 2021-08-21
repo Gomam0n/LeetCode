@@ -22,3 +22,10 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 
 # Math
 [233. Number of Digit One](hard/233.%20Number%20of%20Digit%20One.md)  
+
+# String
+[541. Reverse String II](easy/541.%20Reverse%20String%20II.md)  
+
+# Simulation
+[541. Reverse String II](easy/541.%20Reverse%20String%20II.md)  
+
