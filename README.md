@@ -34,6 +34,6 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 
 # Linked List
 [2. Add Two Numbers](medium/2.%20Add%20Two%20Numbers.md)  
-
+[206. Reverse Linked List](easy/206.%20Reverse%20Linked%20List.md)  
 # Sliding Window
 [3. Longest Substring Without Repeating Characters](medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)  
