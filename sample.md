@@ -9,7 +9,7 @@
 
 **Output**: 
 
-**Explanation**:
+**Explanation**: 
 
 # Solution
 

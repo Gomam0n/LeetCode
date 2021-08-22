@@ -17,7 +17,8 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 
 # Greedy
 [1007. Minimum Domino Rotations For Equal Row](medium/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row.md)  
-
+[55. Jump Game](medium/55.%20Jump%20Game.md)  
+[45. Jump Game II](medium/45.%20Jump%20Game%20II.md)  
 # Math
 [233. Number of Digit One](hard/233.%20Number%20of%20Digit%20One.md)  
 [7. Reverse Integer](easy/7.%20Reverse%20Integer.md)
