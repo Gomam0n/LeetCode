@@ -19,6 +19,8 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 [1007. Minimum Domino Rotations For Equal Row](medium/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row.md)  
 [55. Jump Game](medium/55.%20Jump%20Game.md)  
 [45. Jump Game II](medium/45.%20Jump%20Game%20II.md)  
+[765. Couples Holding Hands](hard/765.%20Couples%20Holding%20Hands.md)  
+
 # Math
 [233. Number of Digit One](hard/233.%20Number%20of%20Digit%20One.md)  
 [7. Reverse Integer](easy/7.%20Reverse%20Integer.md)
@@ -37,3 +39,17 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 [206. Reverse Linked List](easy/206.%20Reverse%20Linked%20List.md)  
 # Sliding Window
 [3. Longest Substring Without Repeating Characters](medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)  
+
+# Union Find
+[200. Number of Islands](medium/200.%20Number%20of%20Islands.md)  
+[695. Max Area of Island](medium/695.%20Max%20Area%20of%20Island.md)  
+[547. Number of Provinces](medium/547.%20Number%20of%20Provinces.md)  
+[765. Couples Holding Hands](hard/765.%20Couples%20Holding%20Hands.md)  
+
+# Dfs/Bfs
+[200. Number of Islands](medium/200.%20Number%20of%20Islands.md)  
+[695. Max Area of Island](medium/695.%20Max%20Area%20of%20Island.md)  
+[547. Number of Provinces](medium/547.%20Number%20of%20Provinces.md)  
+
+# Trie
+[208. Implement Trie (Prefix Tree)](medium/208.%20Implement%20Trie%20(Prefix%20Tree).md)  
