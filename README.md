@@ -50,6 +50,18 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 [200. Number of Islands](medium/200.%20Number%20of%20Islands.md)  
 [695. Max Area of Island](medium/695.%20Max%20Area%20of%20Island.md)  
 [547. Number of Provinces](medium/547.%20Number%20of%20Provinces.md)  
+[212. Word Search II (+trie)](hard/212.%20Word%20Search%20II.md)  \
 
 # Trie
 [208. Implement Trie (Prefix Tree)](medium/208.%20Implement%20Trie%20(Prefix%20Tree).md)  
+[421. Maximum XOR of Two Numbers in an Array](medium/421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.md)  
+[820. Short Encoding of Words](medium/820.%20Short%20Encoding%20of%20Words.md)  
+[212. Word Search II (+dfs/bfs)](hard/212.%20Word%20Search%20II.md)  
+[211. Design Add and Search Words Data Structure](medium/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.md)  
+
+# Bit Manipulation
+[421. Maximum XOR of Two Numbers in an Array](medium/421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.md)  
+
+# Data Stucture
+[208. Implement Trie (Prefix Tree)](medium/208.%20Implement%20Trie%20(Prefix%20Tree).md)  
+[211. Design Add and Search Words Data Structure](medium/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.md)  
