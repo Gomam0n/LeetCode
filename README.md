@@ -10,7 +10,9 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 [5. Longest Palindromic Substring](medium/5.%20Longest%20Palindromic%20Substring.md)  
 [413. Arithmetic Slices](medium/413.%20Arithmetic%20Slices.md)  
 [516. Longest Palindromic Subsequence](medium/516.%20Longest%20Palindromic%20Subsequence.md)  
-[72. Edit Distance](hard/72.%20Edit%20Distance.md)
+[72. Edit Distance](hard/72.%20Edit%20Distance.md)  
+[198. House Robber](medium/198.%20House%20Robber.md)  
+[213. House Robber II](medium/213.%20House%20Robber%20II.md)
 
 # Enumeration
 [681. Next Closest Time](medium/681.%20Next%20Closest%20Time.md)  
@@ -51,6 +53,7 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 [695. Max Area of Island](medium/695.%20Max%20Area%20of%20Island.md)  
 [547. Number of Provinces](medium/547.%20Number%20of%20Provinces.md)  
 [212. Word Search II (+trie)](hard/212.%20Word%20Search%20II.md)  \
+[797. All Paths From Source to Target](medium/797.%20All%20Paths%20From%20Source%20to%20Target.md)  
 
 # Trie
 [208. Implement Trie (Prefix Tree)](medium/208.%20Implement%20Trie%20(Prefix%20Tree).md)  
@@ -65,3 +68,7 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 # Data Stucture
 [208. Implement Trie (Prefix Tree)](medium/208.%20Implement%20Trie%20(Prefix%20Tree).md)  
 [211. Design Add and Search Words Data Structure](medium/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.md)  
+[460. LFU Cache](hard/460.%20LFU%20Cache.md)  
+
+# Backtracking
+[679. 24 Game](hard/679.%2024%20Game.md)  
