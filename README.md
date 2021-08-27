@@ -22,6 +22,7 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 [55. Jump Game](medium/55.%20Jump%20Game.md)  
 [45. Jump Game II](medium/45.%20Jump%20Game%20II.md)  
 [765. Couples Holding Hands](hard/765.%20Couples%20Holding%20Hands.md)  
+[881. Boats to Save People](medium/881.%20Boats%20to%20Save%20People.md)  
 
 # Math
 [233. Number of Digit One](hard/233.%20Number%20of%20Digit%20One.md)  
@@ -35,6 +36,7 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 
 # Two Pointers
 [443. String Compression](medium/443.%20String%20Compression.md)  
+[881. Boats to Save People](medium/881.%20Boats%20to%20Save%20People.md)  
 
 # Linked List
 [2. Add Two Numbers](medium/2.%20Add%20Two%20Numbers.md)  
@@ -72,3 +74,11 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 
 # Backtracking
 [679. 24 Game](hard/679.%2024%20Game.md)  
+
+# Sorting
+[315. Count of Smaller Numbers After Self](hard/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.md)  
+[493. Reverse Pairs](hard/493.%20Reverse%20Pairs.md)  
+
+# Binary Indexed Tree
+[315. Count of Smaller Numbers After Self](hard/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.md)  
+[493. Reverse Pairs](hard/493.%20Reverse%20Pairs.md)  
