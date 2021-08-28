@@ -12,7 +12,8 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 [516. Longest Palindromic Subsequence](medium/516.%20Longest%20Palindromic%20Subsequence.md)  
 [72. Edit Distance](hard/72.%20Edit%20Distance.md)  
 [198. House Robber](medium/198.%20House%20Robber.md)  
-[213. House Robber II](medium/213.%20House%20Robber%20II.md)
+[213. House Robber II](medium/213.%20House%20Robber%20II.md)  
+[673. Number of Longest Increasing Subsequence](medium/673.%20Number%20of%20Longest%20Increasing%20Subsequence.md)  
 
 # Enumeration
 [681. Next Closest Time](medium/681.%20Next%20Closest%20Time.md)  
@@ -71,6 +72,7 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 [208. Implement Trie (Prefix Tree)](medium/208.%20Implement%20Trie%20(Prefix%20Tree).md)  
 [211. Design Add and Search Words Data Structure](medium/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.md)  
 [460. LFU Cache](hard/460.%20LFU%20Cache.md)  
+[307. Range Sum Query - Mutable](medium/307.%20Range%20Sum%20Query%20-%20Mutable.md)  
 
 # Backtracking
 [679. 24 Game](hard/679.%2024%20Game.md)  
@@ -78,7 +80,14 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 # Sorting
 [315. Count of Smaller Numbers After Self](hard/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.md)  
 [493. Reverse Pairs](hard/493.%20Reverse%20Pairs.md)  
+[327. Count of Range Sum](hard/327.%20Count%20of%20Range%20Sum.md)  
 
-# Binary Indexed Tree
+# Binary Indexed Tree/Segemnt Tree
 [315. Count of Smaller Numbers After Self](hard/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.md)  
 [493. Reverse Pairs](hard/493.%20Reverse%20Pairs.md)  
+[327. Count of Range Sum](hard/327.%20Count%20of%20Range%20Sum.md)  
+[307. Range Sum Query - Mutable](medium/307.%20Range%20Sum%20Query%20-%20Mutable.md)  
+[308. Range Sum Query 2D - Mutable](hard/308.%20Range%20Sum%20Query%202D%20-%20Mutable.md)
+
+# Priority Queue
+[218. The Skyline Problem(+Line Sweep)](hard/218.%20The%20Skyline%20Problem.md)
