@@ -15,11 +15,13 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 # Bit Manipulation
 [421. Maximum XOR of Two Numbers in an Array](medium/421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.md)  
 
-# Data Stucture
+# Data Stucture/Design
 [208. Implement Trie (Prefix Tree)](medium/208.%20Implement%20Trie%20(Prefix%20Tree).md)  
 [211. Design Add and Search Words Data Structure](medium/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.md)  
 [460. LFU Cache](hard/460.%20LFU%20Cache.md)  
 [307. Range Sum Query - Mutable](medium/307.%20Range%20Sum%20Query%20-%20Mutable.md)  
+[158. Read N Characters Given Read4 II - Call multiple times](hard/158.%20Read%20N%20Characters%20Given%20Read4%20II%20-%20Call%20multiple%20times.md)  
+[157. Read N Characters Given Read4](easy/157.%20Read%20N%20Characters%20Given%20Read4.md)  
 
 # Dfs/Bfs
 [200. Number of Islands](medium/200.%20Number%20of%20Islands.md)  
@@ -61,7 +63,8 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 # Math
 [233. Number of Digit One](hard/233.%20Number%20of%20Digit%20One.md)  
 [7. Reverse Integer](easy/7.%20Reverse%20Integer.md)
-
+[166. Fraction to Recurring Decimal](medium/166.%20Fraction%20to%20Recurring%20Decimal.md)  
+[29. Divide Two Integers](medium/29.%20Divide%20Two%20Integers.md)  
 
 # Priority Queue
 [218. The Skyline Problem(+Line Sweep)](hard/218.%20The%20Skyline%20Problem.md)  
@@ -73,6 +76,10 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 
 # Simulation
 [541. Reverse String II](easy/541.%20Reverse%20String%20II.md)  
+[161. One Edit Distance](medium/161.%20One%20Edit%20Distance.md)  
+[163. Missing Ranges](easy/163.%20Missing%20Ranges.md)  
+[166. Fraction to Recurring Decimal](medium/166.%20Fraction%20to%20Recurring%20Decimal.md)  
+[29. Divide Two Integers](medium/29.%20Divide%20Two%20Integers.md)  
 
 # Sliding Window
 [3. Longest Substring Without Repeating Characters](medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)  
@@ -101,7 +108,7 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 # Two Pointers
 [443. String Compression](medium/443.%20String%20Compression.md)  
 [881. Boats to Save People](medium/881.%20Boats%20to%20Save%20People.md)  
-
+[163. Missing Ranges](easy/163.%20Missing%20Ranges.md)  
 
 # Union Find
 [200. Number of Islands](medium/200.%20Number%20of%20Islands.md)  
