@@ -22,6 +22,7 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 [307. Range Sum Query - Mutable](medium/307.%20Range%20Sum%20Query%20-%20Mutable.md)  
 [158. Read N Characters Given Read4 II - Call multiple times](hard/158.%20Read%20N%20Characters%20Given%20Read4%20II%20-%20Call%20multiple%20times.md)  
 [157. Read N Characters Given Read4](easy/157.%20Read%20N%20Characters%20Given%20Read4.md)  
+[225. Implement Stack using Queues](easy/225.%20Implement%20Stack%20using%20Queues.md)  
 
 # Dfs/Bfs
 [200. Number of Islands](medium/200.%20Number%20of%20Islands.md)  
@@ -69,6 +70,8 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 # Priority Queue
 [218. The Skyline Problem(+Line Sweep)](hard/218.%20The%20Skyline%20Problem.md)  
 
+# Recursion/Divide and Conquer
+[241. Different Ways to Add Parentheses](medium/241.%20Different%20Ways%20to%20Add%20Parentheses.md)  
 
 # Shortest Path
 [787. Cheapest Flights Within K Stops](medium/787.%20Cheapest%20Flights%20Within%20K%20Stops.md)  
@@ -83,6 +86,9 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 
 # Sliding Window
 [3. Longest Substring Without Repeating Characters](medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)  
+
+# Stack
+[388. Longest Absolute File Path](medium/388.%20Longest%20Absolute%20File%20Path.md)  
 
 # Sorting
 [315. Count of Smaller Numbers After Self](hard/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.md)  
