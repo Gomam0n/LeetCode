@@ -31,6 +31,7 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 [212. Word Search II (+trie)](hard/212.%20Word%20Search%20II.md)  \
 [797. All Paths From Source to Target](medium/797.%20All%20Paths%20From%20Source%20to%20Target.md)  
 [787. Cheapest Flights Within K Stops](medium/787.%20Cheapest%20Flights%20Within%20K%20Stops.md) 
+[1192. Critical Connections in a Network(trajan)](hard/1192.%20Critical%20Connections%20in%20a%20Network.md)  
 
 # Dynamic Programming
 [5. Longest Palindromic Substring](medium/5.%20Longest%20Palindromic%20Substring.md)  
@@ -97,8 +98,8 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 
 # String
 [541. Reverse String II](easy/541.%20Reverse%20String%20II.md)  
-
-
+[28. Implement strStr()(KMP)](easy/28.%20Implement%20strStr().md)  
+[214. Shortest Palindrome(KMP)](hard/214.%20Shortest%20Palindrome.md)  
 
 
  
