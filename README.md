@@ -17,6 +17,10 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 [34. Find First and Last Position of Element in Sorted Array](34. Find First and Last Position of Element in Sorted Array)  
 [153. Find Minimum in Rotated Sorted Array](medium/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)  
 [154. Find Minimum in Rotated Sorted Array II](hard/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.md)  
+[1539. Kth Missing Positive Number](easy/1539.%20Kth%20Missing%20Positive%20Number.md)  
+[410. Split Array Largest Sum](hard/410.%20Split%20Array%20Largest%20Sum.md)  
+[81. Search in Rotated Sorted Array II](medium/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.md)  
+[4. Median of Two Sorted Arrays](hard/4.%20Median%20of%20Two%20Sorted%20Arrays.md)  
 
 # Bit Manipulation
 [421. Maximum XOR of Two Numbers in an Array](medium/421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.md)  
@@ -48,6 +52,8 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 [213. House Robber II](medium/213.%20House%20Robber%20II.md)  
 [673. Number of Longest Increasing Subsequence](medium/673.%20Number%20of%20Longest%20Increasing%20Subsequence.md)  
 [1235. Maximum Profit in Job Scheduling](hard/1235.%20Maximum%20Profit%20in%20Job%20Scheduling.md)  
+[410. Split Array Largest Sum](hard/410.%20Split%20Array%20Largest%20Sum.md)  
+
 # Enumeration
 [681. Next Closest Time](medium/681.%20Next%20Closest%20Time.md)  
 
