@@ -12,6 +12,12 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 [307. Range Sum Query - Mutable](medium/307.%20Range%20Sum%20Query%20-%20Mutable.md)  
 [308. Range Sum Query 2D - Mutable](hard/308.%20Range%20Sum%20Query%202D%20-%20Mutable.md)  
 
+# Binary Search
+[33. Search in Rotated Sorted Array](medium/33.%20Search%20in%20Rotated%20Sorted%20Array.md)  
+[34. Find First and Last Position of Element in Sorted Array](34. Find First and Last Position of Element in Sorted Array)  
+[153. Find Minimum in Rotated Sorted Array](medium/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)  
+[154. Find Minimum in Rotated Sorted Array II](hard/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.md)  
+
 # Bit Manipulation
 [421. Maximum XOR of Two Numbers in an Array](medium/421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.md)  
 
