@@ -21,6 +21,8 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 [410. Split Array Largest Sum](hard/410.%20Split%20Array%20Largest%20Sum.md)  
 [81. Search in Rotated Sorted Array II](medium/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.md)  
 [4. Median of Two Sorted Arrays](hard/4.%20Median%20of%20Two%20Sorted%20Arrays.md)  
+[1488. Avoid Flood in The City](medium/1488.%20Avoid%20Flood%20in%20The%20City.md)   
+
 
 # Bit Manipulation
 [421. Maximum XOR of Two Numbers in an Array](medium/421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.md)  
@@ -33,6 +35,8 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 [158. Read N Characters Given Read4 II - Call multiple times](hard/158.%20Read%20N%20Characters%20Given%20Read4%20II%20-%20Call%20multiple%20times.md)  
 [157. Read N Characters Given Read4](easy/157.%20Read%20N%20Characters%20Given%20Read4.md)  
 [225. Implement Stack using Queues](easy/225.%20Implement%20Stack%20using%20Queues.md)  
+[707. Design Linked List](medium/707.%20Design%20Linked%20List.md)  
+
 
 # Dfs/Bfs
 [200. Number of Islands](medium/200.%20Number%20of%20Islands.md)  
@@ -42,6 +46,8 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 [797. All Paths From Source to Target](medium/797.%20All%20Paths%20From%20Source%20to%20Target.md)  
 [787. Cheapest Flights Within K Stops](medium/787.%20Cheapest%20Flights%20Within%20K%20Stops.md) 
 [1192. Critical Connections in a Network(trajan)](hard/1192.%20Critical%20Connections%20in%20a%20Network.md)  
+[417. Pacific Atlantic Water Flow](medium/417.%20Pacific%20Atlantic%20Water%20Flow.md)  
+
 
 # Dynamic Programming
 [5. Longest Palindromic Substring](medium/5.%20Longest%20Palindromic%20Substring.md)  
@@ -64,6 +70,8 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 [765. Couples Holding Hands](hard/765.%20Couples%20Holding%20Hands.md)  
 [881. Boats to Save People](medium/881.%20Boats%20to%20Save%20People.md)  
 [1975. Maximum Matrix Sum](medium/1975.%20Maximum%20Matrix%20Sum.md)  
+[1488. Avoid Flood in The City](medium/1488.%20Avoid%20Flood%20in%20The%20City.md)   
+
 
 # Hash table
 [1. Two sum](easy/1.%20Two%20Sum.md)  
@@ -96,6 +104,7 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 [163. Missing Ranges](easy/163.%20Missing%20Ranges.md)  
 [166. Fraction to Recurring Decimal](medium/166.%20Fraction%20to%20Recurring%20Decimal.md)  
 [29. Divide Two Integers](medium/29.%20Divide%20Two%20Integers.md)  
+[498. Diagonal Traverse](medium/498.%20Diagonal%20Traverse.md)  
 
 # Sliding Window
 [3. Longest Substring Without Repeating Characters](medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)  
