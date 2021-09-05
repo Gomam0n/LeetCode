@@ -59,6 +59,7 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 [673. Number of Longest Increasing Subsequence](medium/673.%20Number%20of%20Longest%20Increasing%20Subsequence.md)  
 [1235. Maximum Profit in Job Scheduling](hard/1235.%20Maximum%20Profit%20in%20Job%20Scheduling.md)  
 [410. Split Array Largest Sum](hard/410.%20Split%20Array%20Largest%20Sum.md)  
+[1000. Minimum Cost to Merge Stones](hard/1000.%20Minimum%20Cost%20to%20Merge%20Stones.md)  
 
 # Enumeration
 [681. Next Closest Time](medium/681.%20Next%20Closest%20Time.md)  
@@ -121,8 +122,7 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 [541. Reverse String II](easy/541.%20Reverse%20String%20II.md)  
 [28. Implement strStr()(KMP)](easy/28.%20Implement%20strStr().md)  
 [214. Shortest Palindrome(KMP)](hard/214.%20Shortest%20Palindrome.md)  
-
-
+[468. Validate IP Address](medium/468.%20Validate%20IP%20Address.md)  
  
 
 # Trie
