@@ -26,6 +26,7 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 
 # Bit Manipulation
 [421. Maximum XOR of Two Numbers in an Array](medium/421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.md)  
+[260. Single Number III](medium/260.%20Single%20Number%20III.md)
 
 # Data Stucture/Design
 [208. Implement Trie (Prefix Tree)](medium/208.%20Implement%20Trie%20(Prefix%20Tree).md)  
@@ -143,3 +144,6 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 [695. Max Area of Island](medium/695.%20Max%20Area%20of%20Island.md)  
 [547. Number of Provinces](medium/547.%20Number%20of%20Provinces.md)  
 [765. Couples Holding Hands](hard/765.%20Couples%20Holding%20Hands.md)  
+
+# Others
+[41. First Missing Positive](hard/41.%20First%20Missing%20Positive.md)  
