@@ -26,7 +26,9 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 
 # Bit Manipulation
 [421. Maximum XOR of Two Numbers in an Array](medium/421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.md)  
-[260. Single Number III](medium/260.%20Single%20Number%20III.md)
+[260. Single Number III](medium/260.%20Single%20Number%20III.md)  
+[464. Can I Win(Game Theory)](medium/464.%20Can%20I%20Win.md)  
+[1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](hard/1284.%20Minimum%20Number%20of%20Flips%20to%20Convert%20Binary%20Matrix%20to%20Zero%20Matrix.md)  
 
 # Data Stucture/Design
 [208. Implement Trie (Prefix Tree)](medium/208.%20Implement%20Trie%20(Prefix%20Tree).md)  
@@ -64,6 +66,7 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 
 # Enumeration
 [681. Next Closest Time](medium/681.%20Next%20Closest%20Time.md)  
+[1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](hard/1284.%20Minimum%20Number%20of%20Flips%20to%20Convert%20Binary%20Matrix%20to%20Zero%20Matrix.md)  
 
 # Greedy
 [1007. Minimum Domino Rotations For Equal Row](medium/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row.md)  
@@ -73,7 +76,7 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 [881. Boats to Save People](medium/881.%20Boats%20to%20Save%20People.md)  
 [1975. Maximum Matrix Sum](medium/1975.%20Maximum%20Matrix%20Sum.md)  
 [1488. Avoid Flood in The City](medium/1488.%20Avoid%20Flood%20in%20The%20City.md)   
-
+[678. Valid Parenthesis String](medium/678.%20Valid%20Parenthesis%20String.md)  
 
 # Hash table
 [1. Two sum](easy/1.%20Two%20Sum.md)  
@@ -113,6 +116,7 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 
 # Stack
 [388. Longest Absolute File Path](medium/388.%20Longest%20Absolute%20File%20Path.md)  
+[678. Valid Parenthesis String](medium/678.%20Valid%20Parenthesis%20String.md)  
 
 # Sorting
 [315. Count of Smaller Numbers After Self](hard/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.md)  
