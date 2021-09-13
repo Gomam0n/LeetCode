@@ -50,6 +50,7 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 [787. Cheapest Flights Within K Stops](medium/787.%20Cheapest%20Flights%20Within%20K%20Stops.md) 
 [1192. Critical Connections in a Network(trajan)](hard/1192.%20Critical%20Connections%20in%20a%20Network.md)  
 [417. Pacific Atlantic Water Flow](medium/417.%20Pacific%20Atlantic%20Water%20Flow.md)  
+[LCP 09. 最小跳跃次数](hard/LCP%2009.%20最小跳跃次数.md)  
 
 
 # Dynamic Programming
@@ -63,6 +64,7 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 [1235. Maximum Profit in Job Scheduling](hard/1235.%20Maximum%20Profit%20in%20Job%20Scheduling.md)  
 [410. Split Array Largest Sum](hard/410.%20Split%20Array%20Largest%20Sum.md)  
 [1000. Minimum Cost to Merge Stones](hard/1000.%20Minimum%20Cost%20to%20Merge%20Stones.md)  
+[LCP 09. 最小跳跃次数](hard/LCP%2009.%20最小跳跃次数.md)  
 
 # Enumeration
 [681. Next Closest Time](medium/681.%20Next%20Closest%20Time.md)  
@@ -77,6 +79,7 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 [1975. Maximum Matrix Sum](medium/1975.%20Maximum%20Matrix%20Sum.md)  
 [1488. Avoid Flood in The City](medium/1488.%20Avoid%20Flood%20in%20The%20City.md)   
 [678. Valid Parenthesis String](medium/678.%20Valid%20Parenthesis%20String.md)  
+[1353. Maximum Number of Events That Can Be Attended](medium/1353.%20Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended.md)  
 
 # Hash table
 [1. Two sum](easy/1.%20Two%20Sum.md)  
