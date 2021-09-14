@@ -113,6 +113,7 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 [166. Fraction to Recurring Decimal](medium/166.%20Fraction%20to%20Recurring%20Decimal.md)  
 [29. Divide Two Integers](medium/29.%20Divide%20Two%20Integers.md)  
 [498. Diagonal Traverse](medium/498.%20Diagonal%20Traverse.md)  
+[1152. Analyze User Website Visit Pattern](medium/1152.%20Analyze%20User%20Website%20Visit%20Pattern.md)  
 
 # Sliding Window
 [3. Longest Substring Without Repeating Characters](medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)  
@@ -139,6 +140,7 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 [820. Short Encoding of Words](medium/820.%20Short%20Encoding%20of%20Words.md)  
 [212. Word Search II (+dfs/bfs)](hard/212.%20Word%20Search%20II.md)  
 [211. Design Add and Search Words Data Structure](medium/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.md)  
+[472. Concatenated Words](hard/472.%20Concatenated%20Words.md)  
 
 
 # Two Pointers
