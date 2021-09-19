@@ -14,7 +14,7 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 
 # Binary Search
 [33. Search in Rotated Sorted Array](medium/33.%20Search%20in%20Rotated%20Sorted%20Array.md)  
-[34. Find First and Last Position of Element in Sorted Array](34. Find First and Last Position of Element in Sorted Array)  
+[34. Find First and Last Position of Element in Sorted Array](medium/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)  
 [153. Find Minimum in Rotated Sorted Array](medium/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)  
 [154. Find Minimum in Rotated Sorted Array II](hard/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.md)  
 [1539. Kth Missing Positive Number](easy/1539.%20Kth%20Missing%20Positive%20Number.md)  
@@ -39,6 +39,7 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 [157. Read N Characters Given Read4](easy/157.%20Read%20N%20Characters%20Given%20Read4.md)  
 [225. Implement Stack using Queues](easy/225.%20Implement%20Stack%20using%20Queues.md)  
 [707. Design Linked List](medium/707.%20Design%20Linked%20List.md)  
+[843. Guess the Word](hard/843.%20Guess%20the%20Word.md)  
 
 
 # Dfs/Bfs
@@ -51,6 +52,7 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 [1192. Critical Connections in a Network(trajan)](hard/1192.%20Critical%20Connections%20in%20a%20Network.md)  
 [417. Pacific Atlantic Water Flow](medium/417.%20Pacific%20Atlantic%20Water%20Flow.md)  
 [LCP 09. 最小跳跃次数](hard/LCP%2009.%20最小跳跃次数.md)  
+[694. Number of Distinct Islands](medium/694.%20Number%20of%20Distinct%20Islands.md)  
 
 
 # Dynamic Programming
