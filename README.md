@@ -4,6 +4,7 @@ http://www.sciweavers.org/free-online-latex-equation-editor
 
 # Backtracking
 [679. 24 Game](hard/679.%2024%20Game.md)  
+[2065. Maximum Path Quality of a Graph](hard/2065.%20Maximum%20Path%20Quality%20of%20a%20Graph.md)  
 
 # Binary Indexed Tree/Segemnt Tree
 [315. Count of Smaller Numbers After Self](hard/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.md)  
